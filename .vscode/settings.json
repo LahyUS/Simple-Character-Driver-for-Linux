@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "vchar_driver.h": "c",
+        "fs.h": "c",
+        "module.h": "c"
+    }
+}
